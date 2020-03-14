@@ -10,7 +10,7 @@
  * 85 106 17 *
  *************/
 
-int** multiply_matrices(int** A, int** B, int** C, int nlA, int ncA, int ncB)
+void multiply_matrices(int** A, int** B, int** C, int nlA, int ncA, int ncB)
 {
     for (int i = 0; i < nlA; ++i)
         for (int j = 0; j < ncB; ++j)
