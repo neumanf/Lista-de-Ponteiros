@@ -22,6 +22,6 @@ x+2: `4092+2*sizeof(float)` = 4092+2*4 = 4100
 x+3: `4092+3*sizeof(float)` = 4092+3*4 = 4104
 
 * x for declarado como double?
-x+1: 4092+1*sizeof(double) = 4092+1*8 = 4100
-x+2: 4092+2*sizeof(double) = 4092+2*8 = 4108
-x+3: 4092+3*sizeof(double) = 4092+3*8 = 4116
+x+1: `4092+1*sizeof(double)` = 4092+1*8 = 4100
+x+2: `4092+2*sizeof(double)` = 4092+2*8 = 4108
+x+3: `4092+3*sizeof(double)` = 4092+3*8 = 4116
