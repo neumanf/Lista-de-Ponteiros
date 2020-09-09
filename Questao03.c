@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /****************
- * RESPOSTA     *
- *              *
- * ffe 7 5 15 9 *
+ * RESPOSTA      *
+ *               *
+ * 4094 7 5 15 9 *
  ****************/
 
 int main()
